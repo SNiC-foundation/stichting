@@ -93,11 +93,19 @@ section.conference
   align-items: flex-start;
   justify-content: center;
   padding: 100px;
+<<<<<<< HEAD
   max-width: 850px;
   margin: 50px auto;
 }
 
 @media (max-width: 1200px)
+=======
+  max-width: 85000px;
+  margin: 50px auto;
+}
+
+@media (max-width: 12000px)
+>>>>>>> Achtergrondkleuren van de congressen sluiten nu op elkaar aan, MobilIT logo aangepast & copyright aangepast (onderaan)
 {
   section.conference
   {
@@ -264,4 +272,8 @@ footer
 .conference .singularit img
 {
   width: 90%;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> Achtergrondkleuren van de congressen sluiten nu op elkaar aan, MobilIT logo aangepast & copyright aangepast (onderaan)
