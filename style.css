@@ -41,6 +41,10 @@ nav li
   padding: 0 10px;
 }
 
+nav li a {
+  color: #101010;
+}
+
 header
 {
   margin: 50px auto 100px;
